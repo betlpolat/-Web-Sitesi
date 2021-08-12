@@ -9,7 +9,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\betül\\Desktop\\website\\css\\index.html"
+            "file": "c:\\Users\\betül\\Desktop\\website\\html\\index.html"
         }
     ]
 }
