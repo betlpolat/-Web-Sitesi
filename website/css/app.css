@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
 
 
 *{
@@ -78,7 +76,7 @@ header{
     box-shadow: 0 2px 8px 2px rgba(20,23,28,.15);
     position: relative;
     color: orange;
-    font-family: Style Script;
+    font-family: 'Roboto', sans-serif;;
     font-size: 50px;
     opacity: 0.8;
     margin-bottom: 5px;
@@ -115,6 +113,7 @@ nav ul{
     height: 100%;
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;;
 }
 
 nav li{
@@ -157,7 +156,7 @@ main{
     border-radius: 10px;
     box-shadow: 0 2px 8px 2px rgba(20,23,28,.15);
     margin-bottom: 15px;
-    
+    font-family: 'Roboto Slab', serif;  
 
 
 }
@@ -176,8 +175,9 @@ main{
 h5{
     margin: 10px;
     color: dimgray;
-
+    font-family: 'Roboto', sans-serif;;
 }
+
 
 .icerikText{
     margin: 10px;
@@ -187,7 +187,7 @@ h5{
 
 .btnDevam:link{
     display: inline-block;
-    height: 45px;
+    height: 55px;
     width: 150px;
     padding: 10px 20px;
     background-color: #0071ce;
@@ -221,6 +221,7 @@ h1{
     margin: 0 10px;
     border-radius: 10px;
     box-shadow: 0 2px 8px 2px rgba(20,23,28,.15);
+   
 }
 
 #hakkimizdaRSM{
@@ -240,7 +241,7 @@ h1{
 .hakYazi{
     margin: 15px;
     font-size: 15px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Roboto Slab', serif;
     text-indent: 40px;
     color: #494949;
 }
@@ -266,4 +267,8 @@ h1{
 .link:link{
     text-decoration: none;
 
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;;
 }
