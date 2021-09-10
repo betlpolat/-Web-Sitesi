@@ -1,1 +1,0 @@
-<footer>Tüm Hakları Saklıdır &copy; | 2020</footer>
